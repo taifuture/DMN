@@ -1,1 +1,1 @@
-python runner.py -cfg configs/cvpr/mcr/baseline.yaml --test --resume $*
+python runner.py -cfg configs/mcr/baseline.yaml --test --resume $*
